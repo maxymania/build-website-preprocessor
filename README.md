@@ -1,5 +1,7 @@
 # Website Preprocessor
 
+Website File Preprocessor to preprocess Static and even dynamic websites.
+
 requirement: `node.js`
 
 example usage:
